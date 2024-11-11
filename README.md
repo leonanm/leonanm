@@ -6,9 +6,9 @@
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-(![leonanm's Stats](https://github-readme-stats.vercel.app/api?username=leonanm&theme=dark&show_icons=true&hide_border=true&count_private=true))<br/>
-(![leonanm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonanm&theme=dark&hide_border=true))<br/>
-(![leonanm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonanm&theme=dark&show_icons=true&hide_border=true&layout=compact))<br/>
+![leonanm's Stats](https://github-readme-stats.vercel.app/api?username=leonanm&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![leonanm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonanm&theme=dark&hide_border=true)<br/>
+![leonanm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonanm&theme=dark&show_icons=true&hide_border=true&layout=compact)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
